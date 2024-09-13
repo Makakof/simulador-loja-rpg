@@ -1,0 +1,1 @@
+# simulador-loja-rpg
